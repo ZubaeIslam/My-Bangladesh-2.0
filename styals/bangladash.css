@@ -112,4 +112,63 @@
     background-color: aliceblue;
     border-radius: 6px;
 }
+.today{
+    display:text-align;
+    margin: 50px 450px;
+}
+.btun{
+    display: flex; 
+   
+}
+.taka{
+    background-color: beige;
+    margin: 20px;
+    padding: 50px 35px;
+    border-radius: 6px;
+}
+#taka{
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 50px 35px;
+    border-radius: 6px;
+}
+.taka:hover{
+    background-color:beige;
+    color: #fff;
+}
+#taka:hover{
+    background-color: aquamarine;
+    color: #fff;
+}
+#done{
+    margin: 50px 547px;  
+   
+    background-color: green;
+    padding: 5px;
+}
+#done:hover{
+    background-color:aquamarine;
+    color: aquamarine;
+    padding: 10px;
+}
+.nation{
+   
+}
+.aims{
+    display:text-align;
+    background-color: aquamarine;
+
+}
+.bton{
+    display:text-align;
+}
+.bd{
+    background-color: aliceblue;
+    padding: 10px;
+    display:text-align;
+   
+}
+
+
+
 
