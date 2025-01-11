@@ -52,7 +52,21 @@
     margin: 35px;
    background-color: rgb(83, 179, 83); 
    padding: 35px;
+} 
+.bank{
+
+    margin:50px 350px ;
+    padding: 10px;
+    background-color: azure; 
 }
+    
+
+#yunus{
+    background-color: yellow;
+    padding: 25px;;
+    border-radius: 6px;
+}
+
 .learn{
     border-radius: 5px;
     background-color:green;
